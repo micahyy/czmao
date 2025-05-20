@@ -2,9 +2,9 @@
 
 ### Based on QMK firmware, VIA enable，1.6mm PCB,GH 60 case
 
-### 基于QMK，支持VIA，1.6mm PCB, GH60外壳可用
+### 基于QMK，支持VIA，1.6mm PCB, GH60外壳可用，PCB卫星轴
 
-### Solder only and no led（only caps_led)
+### Solder only and no led（only caps_led）
 
 ### 只支持焊接方式，无LED，只有CAPS指示灯
 
