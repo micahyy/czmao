@@ -1,0 +1,4 @@
+
+
+// 增加 USB 枚举延迟
+#define USB_SUSPEND_WAKEUP_DELAY 500
